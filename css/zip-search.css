@@ -1,0 +1,18 @@
+#zip-search-form .btn-primary,
+#zip-result-list .btn-primary {
+  background: #275ca4;
+  border: 2px solid #275ca4;
+}
+
+#zip-search-form .btn-primary:hover,
+#zip-search-form .btn-primary:focus,
+#zip-result-list .btn-primary:hover,
+#zip-result-list .btn-primary:focus {
+  background: #122c3d;
+  border: 2px solid #122c3d;
+}
+
+#zip-result-list .zip-program-name {
+  font-weight: bold;
+  font-size: 1.4rem;
+}

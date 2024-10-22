@@ -20,3 +20,10 @@ When creating the CSV for data uploads, please adhere to the following rules:
 ## Shortcode Usage  
 
 The search field will display wherever you use the shortcode <pre>[zip-search]</pre> anywhere within your content. Results will display directly under the search field.
+
+## Installation
+
+1. Copy the `zip-search` folder into your `wp-content/plugins` folder
+2. Activate the Zip Search plugin via the plugins admin page
+3. Upload a pre-formatted CSV file on the Zip Search admin page
+4. Place the `[zip-search]` shortcode within the content areas of your pages or posts

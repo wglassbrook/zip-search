@@ -1,4 +1,4 @@
-# Zip Search  
+# WP Zip Search  
 
 The Zip Search plugin allows you to upload ZIP Code related data that will be searchable by your site’s visitors.
 
